@@ -2,7 +2,7 @@
   "builders": [
     {
       "type": "googlecompute",
-      "project_id": "internal-infrastructure-254512",
+      "project_id": "",
       "source_image_family": "ubuntu-1804-lts",
       "source_image_project_id": "ubuntu-os-cloud",
       "zone": "europe-west1-b",
