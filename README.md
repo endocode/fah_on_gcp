@@ -11,7 +11,7 @@ If you can, join in and fire in some compute power!
 # Usage
 
 1. Clone this to your cloud shell
-2. Configure config xml according to you needs (User & GPU usage)
+2. Configure config.xml according to you needs (User & GPU usage)
 3. Configure fahclient.json to use the correct project ID
 4. Run build.sh to create the base image
 5. Create instances or instance groups based on the image created
