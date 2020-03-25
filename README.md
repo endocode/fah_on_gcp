@@ -8,7 +8,8 @@ Wondering what we could contribute while front line defenders are fighting again
 
 # Usage
 
-1. Clone this to your cloud console
+1. Clone this to your cloud shell
 2. Configure config xml according to you needs (User & GPU usage)
-3. Run build.sh to create the base image
-4. Create instances or instance groups based on the image created
+3. Configure fahclient.json to use the correct project ID
+4. Run build.sh to create the base image
+5. Create instances or instance groups based on the image created
