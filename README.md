@@ -6,7 +6,7 @@ Find out more: https://foldingathome.org/
 
 Wondering what we could contribute while front line defenders are fighting against COVID19, we started donating GCP resources to help run simulations. 
 
-If you can, join in and fire in some compute power. We have shared a reference configuration you can use to help you get started. 
+If you can, join in and fire in some compute power. We have shared a reference configuration you can use to help get you started. 
 
 # Usage
 
