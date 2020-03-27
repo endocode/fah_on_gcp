@@ -8,6 +8,11 @@ Wondering what we could contribute while front line defenders are fighting again
 
 If you can, join in and fire in some compute power. We have shared a reference configuration you can use to help get you started. 
 
+We created a team that you can join (because folding together is so much better than folding alone)
+Our team name: GCP_Partners
+Our team ID: 251820
+
+
 # Usage
 
 1. Clone this to your cloud shell
